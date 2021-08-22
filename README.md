@@ -22,6 +22,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
 ###Our Mock Database
 To create our mock database, we’ll be using My JSON Server, which is a simple solution that requires no installation. We just need a Github repo with a db.json file in it. If you’ve been coding along, you may have already noticed that I’ve added a db.json file to the course’s repo:
 In order to access our mock server, we’ll go to the url:
